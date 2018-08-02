@@ -14,4 +14,10 @@ python：
     pandas:
           https://zhuanlan.zhihu.com/p/33229372
           index:https://blog.csdn.net/claroja/article/details/70911963
+          列的特殊处理：https://blog.csdn.net/leokingszx/article/details/78266559
+    lambpa：      
+          模糊匹配：https://dataquestion.com/question/4786-2
+          
+
+
           
