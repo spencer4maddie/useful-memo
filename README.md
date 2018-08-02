@@ -17,6 +17,7 @@ python：
           列的特殊处理：https://blog.csdn.net/leokingszx/article/details/78266559
     lambpa：      
           模糊匹配：https://dataquestion.com/question/4786-2
+    sql：http://www.cnblogs.com/en-heng/p/5630849.html 
           
 
 
